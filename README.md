@@ -34,7 +34,12 @@ Estou em constante aprendizado e sempre pronto para **desafios reais**.
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BnFilipe&show_icons=true&theme=radical" height="165" />
+  <img src="https://streak-stats.demolab.com?user=BnFilipe&theme=radical&hide_border=false" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BnFilipe&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -65,4 +70,10 @@ Estou em constante aprendizado e sempre pronto para **desafios reais**.
 
 ---
 
-⭐️ **Dê uma olhada nos meus projetos abaixo!**
+⭐️ **Dê uma olhada nos meus projetos abaixo!**  
+📌 Status:  
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)  
+📅 Último commit:  
+![Last updated](https://img.shields.io/github/last-commit/BnFilipe/BnFilipe)
+
+---
