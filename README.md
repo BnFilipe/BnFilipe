@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou [Seu Nome]
+# 👋 Olá! Eu sou Bernardo Filipe
 
 💻 Desenvolvedor Full Stack apaixonado por criar interfaces bonitas, dinâmicas e sistemas inteligentes.
 
@@ -11,14 +11,13 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
 
 ## ✨ Sobre mim
-- 🎯 Estudando 10 a 14h por dia para me tornar um dev full stack diferenciado
-- 💡 Criando projetos como sistemas de agendamento, e-commerce e plataformas completas
-- 🧠 Aprendendo tecnologias modernas como React, Next.js, Node.js e MongoDB
+- 🎯 Dev Full Stack diferenciado
+- 💡 Projetos feitos por mim
 
 ## 🌐 Links
 - 🔗 [Portfólio](https://seusite.com)
 - 💼 [LinkedIn](https://linkedin.com/in/seuperfil)
-- 📫 Email: seuemail@email.com
+- 📫 Email: bernardofilipesf@gmail.com
 
 ---
 
