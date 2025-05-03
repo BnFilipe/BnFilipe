@@ -24,12 +24,6 @@ Além de desenvolvimento, sou apaixonado por **design de interfaces** e **experi
 
 ---
 
-## 💼 Projetos
-
-Por enquanto, estou focado em **projetos pessoais e estudos**, mas logo estarei compartilhando alguns dos meus trabalhos aqui. Não perca de vista!
-
----
-
 ## 📬 **Vamos conversar!**
 
 **Sinta-se à vontade para entrar em contato comigo** para colaborações, parcerias ou apenas para trocar uma ideia sobre tecnologia!  
@@ -41,7 +35,7 @@ Eu estarei sempre aberto a **novos desafios** e **novas oportunidades**.
 
 - **LinkedIn**: [Seu Perfil LinkedIn](https://www.linkedin.com/in/bernardofilipesf)
 - **GitHub**: [Seu GitHub](https://github.com/BnFilipe)
-- **Email**: bernardofilipe@gmail.com
+- **Email**: bernardofilipsf@gmail.com
 
 ---
 
