@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá! Eu sou [Seu Nome]
 
-<!--
-**BnFilipe/BnFilipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Full Stack apaixonado por criar interfaces bonitas, dinâmicas e sistemas inteligentes.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que uso
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Sobre mim
+- 🎯 Estudando 10 a 14h por dia para me tornar um dev full stack diferenciado
+- 💡 Criando projetos como sistemas de agendamento, e-commerce e plataformas completas
+- 🧠 Aprendendo tecnologias modernas como React, Next.js, Node.js e MongoDB
+
+## 🌐 Links
+- 🔗 [Portfólio](https://seusite.com)
+- 💼 [LinkedIn](https://linkedin.com/in/seuperfil)
+- 📫 Email: seuemail@email.com
+
+---
+
+⭐️ **Dê uma olhada nos meus projetos abaixo!**
