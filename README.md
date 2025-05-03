@@ -1,6 +1,12 @@
 # Olá, eu sou Bernardo - **Desenvolvedor Full Stack** 
 
-Estou focado em **criar grandes projetos** e sempre busco aprender as tecnologias mais modernas. Meu objetivo é transformar ideias em soluções digitais robustas e inovadoras.
+## ✨ Sobre mim
+
+Sou um **Desenvolvedor Full Stack** apaixonado por **criar grandes projetos** e sempre estou em busca de aprender mais sobre as tecnologias mais avançadas. Meu foco atual é **criar soluções dinâmicas e interativas** utilizando React, Next.js, Node.js, e outras ferramentas poderosas.
+
+Além de desenvolvimento, sou apaixonado por **design de interfaces** e **experiência do usuário**. Meu objetivo é sempre criar **sistemas que não apenas funcionem bem, mas que também sejam intuitivos e bonitos**.
+
+---
 
 ## 🚀 Tecnologias que uso e estou aprendendo
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
@@ -16,14 +22,6 @@ Estou focado em **criar grandes projetos** e sempre busco aprender as tecnologia
 
 ---
 
-## ✨ Sobre mim
-
-Sou um **Desenvolvedor Full Stack** apaixonado por **criar grandes projetos** e sempre estou em busca de aprender mais sobre as tecnologias mais avançadas. Meu foco atual é **criar soluções dinâmicas e interativas** utilizando React, Next.js, Node.js, e outras ferramentas poderosas.
-
-Além de desenvolvimento, sou apaixonado por **design de interfaces** e **experiência do usuário**. Meu objetivo é sempre criar **sistemas que não apenas funcionem bem, mas que também sejam intuitivos e bonitos**.
-
----
-
 ## 📬 **Vamos conversar!**
 
 **Sinta-se à vontade para entrar em contato comigo** para colaborações, parcerias ou apenas para trocar uma ideia sobre tecnologia!  
@@ -33,8 +31,8 @@ Eu estarei sempre aberto a **novos desafios** e **novas oportunidades**.
 
 ## 🌐 Me encontre aqui
 
-- **LinkedIn**: [Seu Perfil LinkedIn](https://www.linkedin.com/in/bernardofilipesf)
-- **GitHub**: [Seu GitHub](https://github.com/BnFilipe)
+- **LinkedIn**: [bernardofilipesf](https://www.linkedin.com/in/bernardofilipesf)
+- **GitHub**: [BnFilipe](https://github.com/BnFilipe)
 - **Email**: bernardofilipsf@gmail.com
 
 ---
